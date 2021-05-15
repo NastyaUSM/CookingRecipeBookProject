@@ -1,0 +1,4 @@
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net472\CookingRecipeBookProject.csprojAssemblyReference.cache
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net472\CookingRecipeBookProject.Form1.resources
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net472\CookingRecipeBookProject.Properties.Resources.resources
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net472\CookingRecipeBookProject.csproj.GenerateResource.cache

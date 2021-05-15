@@ -1,0 +1,66 @@
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\CookingRecipeBookProject.exe
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\CookingRecipeBookProject.deps.json
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\CookingRecipeBookProject.runtimeconfig.json
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\CookingRecipeBookProject.runtimeconfig.dev.json
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\CookingRecipeBookProject.dll
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\ref\CookingRecipeBookProject.dll
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\CookingRecipeBookProject.pdb
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.csprojAssemblyReference.cache
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.AssemblyInfoInputs.cache
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.AssemblyInfo.cs
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.csproj.CoreCompileInputs.cache
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.dll
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\ref\CookingRecipeBookProject.dll
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.pdb
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.genruntimeconfig.cache
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\DnsClient.dll
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\MongoDB.Bson.dll
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\MongoDB.Driver.dll
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\MongoDB.Driver.Core.dll
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\MongoDB.Libmongocrypt.dll
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\SharpCompress.dll
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\runtimes\win\native\libzstd.dll
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\runtimes\win\native\snappy32.dll
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\runtimes\win\native\snappy64.dll
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\runtimes\linux\native\libmongocrypt.so
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\runtimes\osx\native\libmongocrypt.dylib
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\runtimes\win\native\mongocrypt.dll
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.csproj.CopyComplete
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.Properties.Resources.resources
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.csproj.GenerateResource.cache
+D:\Programming\rider projects\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.Form1.resources
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\CookingRecipeBookProject.exe
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\CookingRecipeBookProject.dll.config
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\CookingRecipeBookProject.deps.json
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\CookingRecipeBookProject.runtimeconfig.json
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\CookingRecipeBookProject.runtimeconfig.dev.json
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\CookingRecipeBookProject.dll
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\ref\CookingRecipeBookProject.dll
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\CookingRecipeBookProject.pdb
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\DnsClient.dll
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\MongoDB.Bson.dll
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\MongoDB.Driver.dll
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\MongoDB.Driver.Core.dll
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\MongoDB.Libmongocrypt.dll
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\SharpCompress.dll
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\runtimes\win\native\libzstd.dll
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\runtimes\win\native\snappy32.dll
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\runtimes\win\native\snappy64.dll
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\runtimes\linux\native\libmongocrypt.so
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\runtimes\osx\native\libmongocrypt.dylib
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\bin\Debug\net5.0-windows\runtimes\win\native\mongocrypt.dll
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.csprojAssemblyReference.cache
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.dll.config
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.Form1.resources
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.Properties.Resources.resources
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.csproj.GenerateResource.cache
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.AssemblyInfoInputs.cache
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.AssemblyInfo.cs
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.csproj.CoreCompileInputs.cache
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.csproj.CopyComplete
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.dll
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\ref\CookingRecipeBookProject.dll
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.pdb
+D:\programming\CookingRecipeBookProject\CookingRecipeBookProject\obj\Debug\net5.0-windows\CookingRecipeBookProject.genruntimeconfig.cache
